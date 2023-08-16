@@ -12,9 +12,9 @@ urls=(
   https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
   https://adaway.org/hosts.txt
   https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-  https://abpvn.com/filter/abpvn-qOi3Hl.txt
   https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/domain.txt
   https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+  https://big.oisd.nl/domains
 )
 
 # loop through the urls and download each file with curl
